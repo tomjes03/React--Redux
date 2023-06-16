@@ -5,5 +5,4 @@
 • Adding Task Status
 • Filtering All or Done and Undone tasks with a dropdown arrow 
 • Creating new tasks
-• Editing  a task
-
+• Editing  a task and more
